@@ -1,0 +1,42 @@
+{
+  "message": "The data were fetched successfully.",
+  "data": {
+    "date": "2023-11-15",
+    "day": 630,
+    "resource": "https://facebook.com/story.php/?id=100069092624537&story_fbid=688730160106732",
+    "stats": {
+      "personnel_units": 314290,
+      "tanks": 5377,
+      "armoured_fighting_vehicles": 10104,
+      "artillery_systems": 7647,
+      "mlrs": 884,
+      "aa_warfare_systems": 582,
+      "planes": 323,
+      "helicopters": 324,
+      "vehicles_fuel_tanks": 10020,
+      "warships_cutters": 22,
+      "cruise_missiles": 1562,
+      "uav_systems": 5675,
+      "special_military_equip": 1083,
+      "atgm_srbm_systems": 4,
+      "submarines": 1
+    },
+    "increase": {
+      "personnel_units": 820,
+      "tanks": 15,
+      "armoured_fighting_vehicles": 18,
+      "artillery_systems": 58,
+      "mlrs": 2,
+      "aa_warfare_systems": 2,
+      "planes": 1,
+      "helicopters": 0,
+      "vehicles_fuel_tanks": 47,
+      "warships_cutters": 0,
+      "cruise_missiles": 1,
+      "uav_systems": 26,
+      "special_military_equip": 2,
+      "atgm_srbm_systems": 0,
+      "submarines": 0
+    }
+  }
+}
