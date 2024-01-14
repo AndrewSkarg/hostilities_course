@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import img from '../assets/react.svg'
+import img from '../assets/logo.png'
 export default function ErrorPage() {
     return (
         <div className='min-h-screen bg-slate-900 font-robototext-white flex justify-center items-center flex-col gap-10'>

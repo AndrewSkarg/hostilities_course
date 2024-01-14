@@ -9,14 +9,11 @@ const Layout: FC = () => {
         setName(name);
     }
     return (
-        <div className='w-full h-screen  font-roboto text-white'>
+        <>
             <Header onChange={handleNameChange} /> 
-
-            <div className='container max-w-[90%] mx-auto mt-[30px]'>  {/* sibling 2 */}
                 <Outlet context={[name,setName]}/>
-            </div>
             <Footer />
-        </div>
+        </>
     )
 }
 
